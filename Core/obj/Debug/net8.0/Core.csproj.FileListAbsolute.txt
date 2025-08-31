@@ -1,0 +1,11 @@
+/Users/fmy-802/Documents/skinet/Core/bin/Debug/net8.0/Core.deps.json
+/Users/fmy-802/Documents/skinet/Core/bin/Debug/net8.0/Core.dll
+/Users/fmy-802/Documents/skinet/Core/bin/Debug/net8.0/Core.pdb
+/Users/fmy-802/Documents/skinet/Core/obj/Debug/net8.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fmy-802/Documents/skinet/Core/obj/Debug/net8.0/Core.AssemblyInfoInputs.cache
+/Users/fmy-802/Documents/skinet/Core/obj/Debug/net8.0/Core.AssemblyInfo.cs
+/Users/fmy-802/Documents/skinet/Core/obj/Debug/net8.0/Core.csproj.CoreCompileInputs.cache
+/Users/fmy-802/Documents/skinet/Core/obj/Debug/net8.0/Core.dll
+/Users/fmy-802/Documents/skinet/Core/obj/Debug/net8.0/refint/Core.dll
+/Users/fmy-802/Documents/skinet/Core/obj/Debug/net8.0/Core.pdb
+/Users/fmy-802/Documents/skinet/Core/obj/Debug/net8.0/ref/Core.dll

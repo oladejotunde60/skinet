@@ -1,0 +1,15 @@
+/Users/fmy-802/Documents/skinet/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/fmy-802/Documents/skinet/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/fmy-802/Documents/skinet/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/fmy-802/Documents/skinet/Infrastructure/bin/Debug/net8.0/Core.dll
+/Users/fmy-802/Documents/skinet/Infrastructure/bin/Debug/net8.0/Core.pdb
+/Users/fmy-802/Documents/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/fmy-802/Documents/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fmy-802/Documents/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/fmy-802/Documents/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/fmy-802/Documents/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/fmy-802/Documents/skinet/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/fmy-802/Documents/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/fmy-802/Documents/skinet/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/fmy-802/Documents/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/fmy-802/Documents/skinet/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
